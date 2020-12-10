@@ -1,0 +1,1 @@
+Training project for creating a hotel website called TOXIN
